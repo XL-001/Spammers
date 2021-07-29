@@ -1,25 +1,4 @@
-# Ssan Script
-<img src="latip.jpg" alt="Ssan Cok">
-
-# Information
-Jangan Salah Gunakan Script Ini!
-Saya tidak bertanggung jawab jika
-Terjadi Apa² dengan anda!
-# Installed
-```BASH
-• pkg install python
-• pkg install python3
-• pkg install pip
-• pip install requests
-• pkg install git
-```
-# Buat Runnya
-```BASH
-• git clone https://github.com/XL-001/Spammers
-• cd Spammers
-• python3 latip.py
-```
-# Addtional Information
-```PHP
-LATIP GANTENG :V JANGAN REMAKE YAH SAYANG :)
-```
+Installation
+$pkg install git
+$pkg install php -y
+$pkg install curl
