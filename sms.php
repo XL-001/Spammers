@@ -59,9 +59,9 @@ echo $green."
 |___/|_| |_||_|_| |_| |___/|_| |_||___/\n".$yellow.
 "Free SpaM";
 echo $blue."
-[!] Author   : Mr.yM                        [!]
-[!] Youtube  : www.youtube.com/MAULANARyM   [!]
-[!] github   : github.com/MaulanaRyM        [!]\n";
+[!] Author    : Mr.xl                        [!]
+[!] Instagram : a.faruq_76                   [!]
+[!] github    : XL-001                       [!]\n";
 echo "";
 echo $red.
 "NB: Input Nomor Hp Tanpa 62/0
